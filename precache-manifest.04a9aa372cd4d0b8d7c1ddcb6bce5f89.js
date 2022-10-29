@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d3aafe1bc6d01cf6bafa",
+    "revision": "abd87665459ae48d7f34",
     "url": "/WT20-2022/static/css/main.31e8e36b.chunk.css"
   },
   {
-    "revision": "d3aafe1bc6d01cf6bafa",
-    "url": "/WT20-2022/static/js/main.d3aafe1b.chunk.js"
+    "revision": "abd87665459ae48d7f34",
+    "url": "/WT20-2022/static/js/main.abd87665.chunk.js"
   },
   {
     "revision": "8391c5f3846102535d31",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/WT20-2022/static/js/2.0be92d95.chunk.js"
   },
   {
-    "revision": "b204baae1186ea9b8435436a776d8bda",
+    "revision": "9a9f868b0cf83257539fbaa1eb7699ac",
     "url": "/WT20-2022/index.html"
   }
 ];
